@@ -1,0 +1,19 @@
+{
+  "name": "shared-utilities",
+  "version": "1.0.0",
+  "description": "Shared utilities for KYC/AML microservices",
+  "main": "index.js",
+  "dependencies": {
+    "winston": "^3.11.0",
+    "ioredis": "^5.3.2",
+    "crypto": "^1.0.1"
+  },
+  "keywords": [
+    "shared",
+    "utilities",
+    "logging",
+    "redis"
+  ],
+  "author": "DEX Team",
+  "license": "MIT"
+}
