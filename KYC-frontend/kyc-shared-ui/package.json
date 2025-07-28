@@ -1,0 +1,10 @@
+{
+  "name": "kyc-shared-ui",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "styled-components": "^6.0.0",
+    "react": "^18.0.0"
+  }
+}
